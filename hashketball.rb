@@ -1,4 +1,5 @@
-def hashketball(game_hash)
+def game_hash
+  {
 game_hash = {
   :home => {
     :team_name => [],
